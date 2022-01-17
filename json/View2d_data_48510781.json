@@ -1,0 +1,3207 @@
+{
+    "baseLine": {
+        "color": "orange",
+        "lineWidth": 1,
+        "space": 5,
+        "x": [],
+        "y": []
+    },
+    "grid": {
+        "show": false,
+        "lineWidth": 0.5,
+        "color": "rgba(225,225,225,0.8)",
+        "step": {
+            "x": 30,
+            "y": 30
+        }
+    },
+    "background": {
+        "color": "#000",
+        "image": ""
+    },
+    "nodes": [
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.4320987654320985,
+                "y": 0.308641975308642
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 294,
+                "y": 162
+            },
+            "color": [
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "http://www.view2d.com",
+                "color": "#fff",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "left",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 274.95061728395063,
+                "y": 152.01554407976647
+            },
+            "name": "node271",
+            "ID": "88878988-29e2-46e0-8f73-93630f93",
+            "zIndex": 24,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 203.3456790123457,
+                    "y": 136.58344531433437
+                },
+                {
+                    "x": 346.55555555555554,
+                    "y": 136.58344531433437
+                },
+                {
+                    "x": 346.55555555555554,
+                    "y": 167.44764284519857
+                },
+                {
+                    "x": 203.3456790123457,
+                    "y": 167.44764284519857
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.16,
+                "y": 0.25000000000000006
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.45679012345679026,
+                "y": 0.33232552280171285
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 471,
+                "y": 303
+            },
+            "color": [
+                "rgba(0,0,0,0)"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 157.04938271604942,
+                "y": 152.1266551908775
+            },
+            "name": "node251",
+            "ID": "cac40e95-1465-4cd7-872b-69c2fba8",
+            "zIndex": 22,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 122.79012345679016,
+                    "y": 135.84270457359355
+                },
+                {
+                    "x": 191.30864197530866,
+                    "y": 135.84270457359355
+                },
+                {
+                    "x": 191.30864197530866,
+                    "y": 168.41060580816145
+                },
+                {
+                    "x": 122.79012345679016,
+                    "y": 168.41060580816145
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "src": "https://img1.baidu.com/it/u=3632732758,1898142214&fm=26&fmt=auto",
+            "element": {},
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawImage",
+            "params": {
+                "w": 150,
+                "h": 100
+            },
+            "allScale": {
+                "x": 0.37000000000000016,
+                "y": 0.26918367346938743
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1,
+                "y": 1
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 651,
+                "y": 247
+            },
+            "color": [
+                "#ff0000",
+                "#ff0000"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1128.115076385517,
+                "y": 191.0214333612739
+            },
+            "name": "node241",
+            "ID": "b863c96a-4b95-4d7a-82b0-0c4c4a73",
+            "zIndex": 21,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1109.115076385517,
+                    "y": 172.0214333612739
+                },
+                {
+                    "x": 1147.1150763855169,
+                    "y": 172.0214333612739
+                },
+                {
+                    "x": 1147.1150763855169,
+                    "y": 210.02143336127384
+                },
+                {
+                    "x": 1109.115076385517,
+                    "y": 210.02143336127384
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "light",
+            "isOn": true,
+            "speed": 0.05,
+            "offset": 0.35,
+            "allScale": {
+                "x": 0.81,
+                "y": 0.81
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.3016585609178198,
+                "y": 0.25801222097518395
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 405,
+                "y": 93
+            },
+            "color": [
+                "rgba(218, 232, 238, 1)",
+                "rgba(10, 76, 244, 1)",
+                "rgba(12, 13, 13, 1)",
+                "red",
+                "rgba(12, 141, 205, 1)",
+                "#fff",
+                "red"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": true,
+                "color": "rgba(10, 172, 242, 1)",
+                "lineWidth": 5,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 702.7283950617284,
+                "y": 197.56464323781717
+            },
+            "name": "node221",
+            "ID": "f97cfadc-6d98-4fb3-883a-4f4bdb3e",
+            "zIndex": 20,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 672.8641975308641,
+                    "y": 172.02143336127392
+                },
+                {
+                    "x": 732.5925925925927,
+                    "y": 172.02143336127392
+                },
+                {
+                    "x": 732.5925925925927,
+                    "y": 223.10785311436032
+                },
+                {
+                    "x": 672.8641975308641,
+                    "y": 223.10785311436032
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "clock",
+            "isOn": true,
+            "params": {
+                "w": 100,
+                "h": 150
+            },
+            "allScale": {
+                "x": 0.24434343434343403,
+                "y": 0.208989898989899
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1,
+                "y": 1
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 651,
+                "y": 247
+            },
+            "color": [
+                "#ff0000",
+                "#ff0000"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 298.6829776200847,
+                "y": 191.02143336127392
+            },
+            "name": "node231",
+            "ID": "e5acac0f-0e23-4d17-8a4e-6b809264",
+            "zIndex": 20,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 279.6829776200847,
+                    "y": 172.02143336127392
+                },
+                {
+                    "x": 317.6829776200847,
+                    "y": 172.02143336127392
+                },
+                {
+                    "x": 317.6829776200847,
+                    "y": 210.02143336127386
+                },
+                {
+                    "x": 279.6829776200847,
+                    "y": 210.02143336127386
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "light",
+            "isOn": true,
+            "speed": 0.05,
+            "offset": 0.3,
+            "allScale": {
+                "x": 0.81,
+                "y": 0.81
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.26697530864197483,
+                "y": 0.24382716049382747
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 628,
+                "y": 410
+            },
+            "color": [
+                "#2cafe7",
+                "#fff"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1332.011822443631,
+                "y": 147.94147000569234
+            },
+            "name": "node211",
+            "ID": "f9164779-250b-4882-9466-e07fa5b8",
+            "zIndex": 19,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1310.653797752273,
+                    "y": 128.43529716618616
+                },
+                {
+                    "x": 1353.369847134989,
+                    "y": 128.43529716618616
+                },
+                {
+                    "x": 1353.369847134989,
+                    "y": 167.44764284519852
+                },
+                {
+                    "x": 1310.653797752273,
+                    "y": 167.44764284519852
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawFan",
+            "speed": 0.3,
+            "params": {
+                "w": 80,
+                "h": 80
+            },
+            "offset": 6155.100000002271,
+            "allScale": {
+                "x": 0.21624999999999964,
+                "y": 0.19750000000000026
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.26697530864197483,
+                "y": 0.24382716049382747
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 628,
+                "y": 410
+            },
+            "color": [
+                "#2cafe7",
+                "#fff"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 94.72787182634477,
+                "y": 147.9414700056924
+            },
+            "name": "node201",
+            "ID": "781cd2c8-d41c-445e-8f7c-0d0dfb25",
+            "zIndex": 18,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 73.3698471349868,
+                    "y": 128.43529716618622
+                },
+                {
+                    "x": 116.08589651770274,
+                    "y": 128.43529716618622
+                },
+                {
+                    "x": 116.08589651770274,
+                    "y": 167.44764284519857
+                },
+                {
+                    "x": 73.3698471349868,
+                    "y": 167.44764284519857
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawFan",
+            "speed": 0.3,
+            "params": {
+                "w": 80,
+                "h": 80
+            },
+            "offset": 6154.800000002271,
+            "allScale": {
+                "x": 0.21624999999999964,
+                "y": 0.19750000000000026
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.9665736724156846,
+                "y": 1.6463876593746731
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                {
+                    "type": "radial",
+                    "direction": "center",
+                    "gradient": [
+                        "rgba(16, 167, 242, 1)",
+                        "rgba(7, 123, 248, 1)"
+                    ]
+                }
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "rgba(17, 215, 143, 1)",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "right",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1246.7727684173478,
+                "y": 656.8395305955139
+            },
+            "name": "node181",
+            "ID": "afc3cb81-ce31-416c-8b43-79586653",
+            "zIndex": 16,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1150.410658468979,
+                    "y": 576.1665352861552
+                },
+                {
+                    "x": 1343.1348783657168,
+                    "y": 576.1665352861552
+                },
+                {
+                    "x": 1343.1348783657168,
+                    "y": 737.5125259048724
+                },
+                {
+                    "x": 1150.410658468979,
+                    "y": 737.5125259048724
+                }
+            ],
+            "groupPosition": {
+                "x": 0.007029702970442031,
+                "y": 143.47151118333227
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.5929246746567047,
+                "y": 1.3335740040934854
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.986779774658562,
+                "y": 1.6126551581097044
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "rgba(9, 231, 231, 1)",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "center",
+                "textVertical": "bottom",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1247.7628674272507,
+                "y": 491.470466416368
+            },
+            "name": "node171",
+            "ID": "9e8f6339-a54b-4543-8d25-402673de",
+            "zIndex": 15,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1150.410658468981,
+                    "y": 412.4503636689927
+                },
+                {
+                    "x": 1345.1150763855196,
+                    "y": 412.4503636689927
+                },
+                {
+                    "x": 1345.1150763855196,
+                    "y": 570.490569163743
+                },
+                {
+                    "x": 1150.410658468981,
+                    "y": 570.490569163743
+                }
+            ],
+            "groupPosition": {
+                "x": 0.7100000000001501,
+                "y": 27.23302933514765
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.6092916174734353,
+                "y": 1.3062506780688607
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.986779774658562,
+                "y": 1.6126551581097044
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                {
+                    "type": "radial",
+                    "direction": "left",
+                    "gradient": [
+                        "rgba(19, 228, 200, 1)",
+                        "#adccff"
+                    ]
+                }
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "#fff",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "center",
+                "textVertical": "top",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1247.7628674272478,
+                "y": 327.5457501664198
+            },
+            "name": "node161",
+            "ID": "64bdb409-50fb-457a-81d3-144303f6",
+            "zIndex": 14,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1150.410658468978,
+                    "y": 248.52564741904428
+                },
+                {
+                    "x": 1345.1150763855167,
+                    "y": 248.52564741904428
+                },
+                {
+                    "x": 1345.1150763855167,
+                    "y": 406.5658529137955
+                },
+                {
+                    "x": 1150.410658468978,
+                    "y": 406.5658529137955
+                }
+            ],
+            "groupPosition": {
+                "x": 0.7100000000001501,
+                "y": -88.46250217432322
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.6092916174734353,
+                "y": 1.3062506780688607
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.986779774658562,
+                "y": 0.7301399898802494
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                "rgba(239, 8, 120, 1)"
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "rgba(247, 239, 239, 1)",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "rgba(247, 9, 9, 1)",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1245.7628674272491,
+                "y": 207.79829286540587
+            },
+            "name": "node151",
+            "ID": "fa4adfee-474b-4f6e-8c21-bd8f6f04",
+            "zIndex": 13,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1148.4106584689798,
+                    "y": 172.0214333612737
+                },
+                {
+                    "x": 1343.1150763855194,
+                    "y": 172.0214333612737
+                },
+                {
+                    "x": 1343.1150763855194,
+                    "y": 243.57515236953822
+                },
+                {
+                    "x": 1148.4106584689798,
+                    "y": 243.57515236953822
+                }
+            ],
+            "groupPosition": {
+                "x": -0.7099999999999795,
+                "y": -174.17421388603486
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.6092916174734353,
+                "y": 0.5914133918030021
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.991768935706186,
+                "y": 1.6126551581097044
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                {
+                    "type": "linear",
+                    "direction": "to right",
+                    "gradient": [
+                        "rgba(125, 218, 3, 1)",
+                        "#adccff"
+                    ]
+                }
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "#fff",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "left",
+                "textVertical": "top",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 182.10610175067814,
+                "y": 660.1371330830362
+            },
+            "name": "node141",
+            "ID": "bfd15f26-109a-4555-8472-782d1948",
+            "zIndex": 12,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 84.50942390107446,
+                    "y": 581.1170303356608
+                },
+                {
+                    "x": 279.7027796002819,
+                    "y": 581.1170303356608
+                },
+                {
+                    "x": 279.7027796002819,
+                    "y": 739.1572358304117
+                },
+                {
+                    "x": 84.50942390107446,
+                    "y": 739.1572358304117
+                }
+            ],
+            "groupPosition": {
+                "x": 0.007029702970442031,
+                "y": 143.47151118333227
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.6133328379220109,
+                "y": 1.3062506780688607
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.9741821430133113,
+                "y": 1.6126551581097044
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "#fff",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "bottom",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 181.2443489087279,
+                "y": 496.42096146587403
+            },
+            "name": "node131",
+            "ID": "8883f815-e8db-4ffd-8c6f-9870ca01",
+            "zIndex": 11,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 84.50942390107537,
+                    "y": 417.40085871849857
+                },
+                {
+                    "x": 277.97927391637955,
+                    "y": 417.40085871849857
+                },
+                {
+                    "x": 277.97927391637955,
+                    "y": 575.4410642132486
+                },
+                {
+                    "x": 84.50942390107537,
+                    "y": 575.4410642132486
+                }
+            ],
+            "groupPosition": {
+                "x": 0.7100000000001501,
+                "y": 27.23302933514765
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.5990875358407823,
+                "y": 1.3062506780688607
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.9741821430133113,
+                "y": 1.6126551581097044
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                {
+                    "type": "linear",
+                    "direction": "to right",
+                    "gradient": [
+                        "rgba(15, 110, 242, 1)",
+                        "rgba(97, 151, 241, 1)"
+                    ]
+                }
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "#fff",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 181.2443489087279,
+                "y": 333.4695086356336
+            },
+            "name": "node121",
+            "ID": "1317d489-3901-483e-8ca9-100f8673",
+            "zIndex": 10,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 84.50942390107537,
+                    "y": 254.449405888258
+                },
+                {
+                    "x": 277.97927391637955,
+                    "y": 254.449405888258
+                },
+                {
+                    "x": 277.97927391637955,
+                    "y": 412.4896113830093
+                },
+                {
+                    "x": 84.50942390107537,
+                    "y": 412.4896113830093
+                }
+            ],
+            "groupPosition": {
+                "x": 0.7100000000001501,
+                "y": -88.46250217432322
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.5990875358407823,
+                "y": 1.3062506780688607
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 2.0119750379490635,
+                "y": 0.7838456826836869
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 469,
+                "y": 163
+            },
+            "color": [
+                "rgba(242, 12, 116, 1)"
+            ],
+            "text": {
+                "content": "呜呼！楚虽三户能亡秦，岂有堂堂中国空无人！",
+                "color": "rgba(238, 232, 232, 1)",
+                "fontSize": 12,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 18,
+                "fontWeight": "normal",
+                "fontStyle": "italic",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 2,
+                "shadowOffsetY": 2,
+                "shadowColor": "#000",
+                "shadowBlur": 3
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 181.09620076057968,
+                "y": 210.11720896754366
+            },
+            "name": "node111",
+            "ID": "2bc2a4e8-1b02-4d0b-bbcf-d161486c",
+            "zIndex": 9,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 82.5094239010754,
+                    "y": 171.70877051604296
+                },
+                {
+                    "x": 279.68297762008467,
+                    "y": 171.70877051604296
+                },
+                {
+                    "x": 279.68297762008467,
+                    "y": 248.52564741904442
+                },
+                {
+                    "x": 82.5094239010754,
+                    "y": 248.52564741904442
+                }
+            ],
+            "groupPosition": {
+                "x": -0.7099999999999795,
+                "y": -174.17421388603486
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "rect",
+            "params": {
+                "w": 100,
+                "h": 100
+            },
+            "allScale": {
+                "x": 1.6296997807387417,
+                "y": 0.6349150029737864
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.8656960345157301,
+                "y": 0.8458448419047316
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 789,
+                "y": 795
+            },
+            "color": [
+                {
+                    "type": "linear",
+                    "direction": "to right",
+                    "gradient": [
+                        "rgba(13, 224, 189, 1)",
+                        "#adccff"
+                    ]
+                }
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": true,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1013.0394303930859,
+                "y": 655.4185964818423
+            },
+            "name": "node101",
+            "ID": "22ed6685-d2fd-470a-b910-6882324b",
+            "zIndex": 8,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 884.0507212502421,
+                    "y": 571.6799571332735
+                },
+                {
+                    "x": 1142.0281395359298,
+                    "y": 571.6799571332735
+                },
+                {
+                    "x": 1142.0281395359298,
+                    "y": 739.1572358304111
+                },
+                {
+                    "x": 884.0507212502421,
+                    "y": 739.1572358304111
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "element": {},
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawEcharts",
+            "params": {
+                "w": 300,
+                "h": 200
+            },
+            "echartsOption": {
+                "tooltip": {
+                    "trigger": "item"
+                },
+                "legend": {
+                    "top": "2%",
+                    "left": "left"
+                },
+                "series": [
+                    {
+                        "name": "访问来源",
+                        "type": "pie",
+                        "radius": [
+                            "40%",
+                            "70%"
+                        ],
+                        "avoidLabelOverlap": false,
+                        "itemStyle": {
+                            "borderRadius": 10,
+                            "borderColor": "#fff",
+                            "borderWidth": 2
+                        },
+                        "label": {
+                            "show": false,
+                            "position": "center"
+                        },
+                        "emphasis": {
+                            "label": {
+                                "show": true,
+                                "fontSize": "16",
+                                "fontWeight": "bold"
+                            }
+                        },
+                        "labelLine": {
+                            "show": false
+                        },
+                        "data": [
+                            {
+                                "value": 1048,
+                                "name": "搜索引擎"
+                            },
+                            {
+                                "value": 735,
+                                "name": "直接访问"
+                            },
+                            {
+                                "value": 580,
+                                "name": "邮件营销"
+                            },
+                            {
+                                "value": 484,
+                                "name": "联盟广告"
+                            },
+                            {
+                                "value": 300,
+                                "name": "视频广告"
+                            }
+                        ]
+                    }
+                ],
+                "color": [
+                    "#409EFF",
+                    "#c23531",
+                    "#E6A23C",
+                    "#67C23A",
+                    "#91c7ae",
+                    "#dddddd",
+                    "#bda29a",
+                    "#546570"
+                ]
+            },
+            "allScale": {
+                "x": 0.7012137879577414,
+                "y": 0.6851343219428326
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.994910941475827,
+                "y": 0.8514851485148514
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 666,
+                "y": 674
+            },
+            "color": [
+                "#fff"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 732.4463363987122,
+                "y": 654.0087209789253
+            },
+            "name": "node91",
+            "ID": "a53eac31-bb3e-4663-96d9-a5773561",
+            "zIndex": 7,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 583.2096951773382,
+                    "y": 568.8602061274399
+                },
+                {
+                    "x": 881.6829776200876,
+                    "y": 568.8602061274399
+                },
+                {
+                    "x": 881.6829776200876,
+                    "y": 739.157235830411
+                },
+                {
+                    "x": 583.2096951773382,
+                    "y": 739.157235830411
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "element": {},
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawEcharts",
+            "params": {
+                "w": 300,
+                "h": 200
+            },
+            "echartsOption": {
+                "color": [
+                    "#409EFF"
+                ],
+                "tooltip": {
+                    "trigger": "axis"
+                },
+                "xAxis": {
+                    "type": "category",
+                    "data": [
+                        "Mon",
+                        "Tue",
+                        "Wed",
+                        "Thu",
+                        "Fri",
+                        "Sat",
+                        "Sun"
+                    ]
+                },
+                "yAxis": {
+                    "type": "value"
+                },
+                "series": [
+                    {
+                        "data": [
+                            820,
+                            932,
+                            901,
+                            934,
+                            1290,
+                            1330,
+                            1320
+                        ],
+                        "type": "line",
+                        "smooth": true
+                    }
+                ]
+            },
+            "allScale": {
+                "x": 0.8058778625954199,
+                "y": 0.6897029702970296
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.9917184265010349,
+                "y": 0.8613861386138613
+            },
+            "createNode": null,
+            "freeze": false,
+            "originPosition": {
+                "x": 474,
+                "y": 658
+            },
+            "color": [
+                {
+                    "type": "radial",
+                    "direction": "center",
+                    "gradient": [
+                        "rgba(242, 196, 242, 1)",
+                        "rgba(197, 208, 225, 1)"
+                    ]
+                }
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 432.9252136449304,
+                "y": 654.5739110275738
+            },
+            "name": "node81",
+            "ID": "e3d2d729-43f8-4e3b-83c0-e8b98c35",
+            "zIndex": 6,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 284.1674496697752,
+                    "y": 568.435297166188
+                },
+                {
+                    "x": 581.6829776200858,
+                    "y": 568.435297166188
+                },
+                {
+                    "x": 581.6829776200858,
+                    "y": 740.7125248889598
+                },
+                {
+                    "x": 284.1674496697752,
+                    "y": 740.7125248889598
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "element": {},
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawEcharts",
+            "params": {
+                "w": 300,
+                "h": 200
+            },
+            "echartsOption": {
+                "color": [
+                    "#409EFF"
+                ],
+                "tooltip": {
+                    "trigger": "axis"
+                },
+                "xAxis": {
+                    "type": "category",
+                    "data": [
+                        "Mon",
+                        "Tue",
+                        "Wed",
+                        "Thu",
+                        "Fri",
+                        "Sat",
+                        "Sun"
+                    ]
+                },
+                "yAxis": {
+                    "type": "value"
+                },
+                "series": [
+                    {
+                        "data": [
+                            120,
+                            200,
+                            150,
+                            80,
+                            70,
+                            110,
+                            130
+                        ],
+                        "type": "bar"
+                    }
+                ]
+            },
+            "allScale": {
+                "x": 0.8032919254658384,
+                "y": 0.6977227722772277
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [
+                {
+                    "params": {
+                        "type": 2,
+                        "value": "console.log(123)"
+                    },
+                    "events": "click"
+                },
+                {
+                    "events": "click",
+                    "isDrag": false,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "click",
+                    "isDrag": false,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "click",
+                    "isDrag": false,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": [
+                        {
+                            "params": {
+                                "type": 2,
+                                "value": "console.log(123)"
+                            },
+                            "events": "click"
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        }
+                    ]
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": [
+                        {
+                            "params": {
+                                "type": 2,
+                                "value": "console.log(123)"
+                            },
+                            "events": "click"
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        }
+                    ]
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": [
+                        {
+                            "params": {
+                                "type": 2,
+                                "value": "console.log(123)"
+                            },
+                            "events": "click"
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        },
+                        {
+                            "events": "click",
+                            "isDrag": false,
+                            "isHover": false,
+                            "params": []
+                        }
+                    ]
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 5.7674292920194485,
+                "y": 3.9594099594099554
+            },
+            "createNode": null,
+            "freeze": true,
+            "originPosition": {
+                "x": 451,
+                "y": 414
+            },
+            "color": [
+                "#409EFF",
+                "rgba(249, 242, 241, 1)",
+                "#E6A23C",
+                "#67C23A",
+                "#91c7ae",
+                "#dddddd",
+                "#bda29a",
+                "#546570"
+            ],
+            "text": {
+                "content": "",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 714.2401745215459,
+                "y": 369.9919313317719
+            },
+            "name": "node71",
+            "ID": "a3af0f79-4de3-4e9a-861b-5acea8f3",
+            "zIndex": 5,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 281.68297762008535,
+                    "y": 172.02143336127352
+                },
+                {
+                    "x": 1146.7973714230045,
+                    "y": 172.02143336127352
+                },
+                {
+                    "x": 1146.7973714230045,
+                    "y": 567.9624293022703
+                },
+                {
+                    "x": 281.68297762008535,
+                    "y": 567.9624293022703
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "src": "./img/mov_bbb.mp4",
+            "element": {},
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "drawVideo",
+            "isOn": true,
+            "params": {
+                "w": 150,
+                "h": 100
+            },
+            "allScale": {
+                "x": 4.671617726535754,
+                "y": 3.207122067122064
+            },
+            "allRotate": 0,
+            "isMousedown": false,
+            "data": null
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 0.7207279622415959,
+                "y": 0.9514495769177417
+            },
+            "createNode": null,
+            "freeze": true,
+            "originPosition": {
+                "x": 579,
+                "y": 599
+            },
+            "color": [
+                "#2cafe7",
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "底部",
+                "color": "#fff",
+                "fontSize": 25,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 25,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 713.3990270028023,
+                "y": 655.1695815094228
+            },
+            "name": "node61",
+            "ID": "e6fbe67f-fb68-444c-9234-f5754418",
+            "zIndex": 4,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 281.68297762008524,
+                    "y": 570.4905691637437
+                },
+                {
+                    "x": 1145.1150763855173,
+                    "y": 570.4905691637437
+                },
+                {
+                    "x": 1145.1150763855173,
+                    "y": 739.8485938551015
+                },
+                {
+                    "x": 281.68297762008524,
+                    "y": 739.8485938551015
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "L_bottom",
+            "params": {
+                "w": 1200,
+                "h": 180
+            },
+            "allScale": {
+                "x": 0.5837896494156927,
+                "y": 0.7706741573033709
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1.0787037037037028,
+                "y": 1
+            },
+            "createNode": null,
+            "freeze": true,
+            "originPosition": {
+                "x": 534,
+                "y": 399
+            },
+            "color": [
+                "#2cafe7",
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "中心布局",
+                "color": "#fff",
+                "fontSize": 20,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 713.1644591015678,
+                "y": 371.4905691637432
+            },
+            "name": "node51",
+            "ID": "dea385d7-6f84-45b2-82b1-28bc69fd",
+            "zIndex": 3,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 281.68297762008575,
+                    "y": 172.49056916374292
+                },
+                {
+                    "x": 1144.645940583049,
+                    "y": 172.49056916374292
+                },
+                {
+                    "x": 1144.645940583049,
+                    "y": 570.4905691637424
+                },
+                {
+                    "x": 281.68297762008575,
+                    "y": 570.4905691637424
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "L_center",
+            "params": {
+                "w": 800,
+                "h": 400
+            },
+            "allScale": {
+                "x": 0.8737499999999994,
+                "y": 0.81
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1,
+                "y": 1.416666666666668
+            },
+            "createNode": null,
+            "freeze": true,
+            "originPosition": {
+                "x": 1037,
+                "y": 462
+            },
+            "color": [
+                "#2cafe7",
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "右侧布局",
+                "color": "#fff",
+                "fontSize": 25,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 25,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 1246.115076385517,
+                "y": 455.8239024970771
+            },
+            "name": "node41",
+            "ID": "f9c572bc-15a3-4e34-af04-b25abc93",
+            "zIndex": 2,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 1147.1150763855169,
+                    "y": 172.49056916374298
+                },
+                {
+                    "x": 1345.1150763855164,
+                    "y": 172.49056916374298
+                },
+                {
+                    "x": 1345.1150763855164,
+                    "y": 739.1572358304102
+                },
+                {
+                    "x": 1147.1150763855169,
+                    "y": 739.1572358304102
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 2,
+            "shape": "L_right",
+            "params": {
+                "w": 200,
+                "h": 400
+            },
+            "allScale": {
+                "x": 0.81,
+                "y": 1.1475000000000013
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1,
+                "y": 1.4249643278118982
+            },
+            "createNode": null,
+            "freeze": true,
+            "originPosition": {
+                "x": 336,
+                "y": 361
+            },
+            "color": [
+                "#2cafe7",
+                "#2cafe7"
+            ],
+            "text": {
+                "content": "左侧布局",
+                "color": "#fff",
+                "fontSize": 25,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 25,
+                "fontWeight": "normal",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "center",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 181.68297762008478,
+                "y": 455.5893345958423
+            },
+            "name": "node31",
+            "ID": "b805be55-7e68-41b0-8bea-b54d8c02",
+            "zIndex": 1,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 81.68297762008447,
+                    "y": 172.02143336127378
+                },
+                {
+                    "x": 281.6829776200852,
+                    "y": 172.02143336127378
+                },
+                {
+                    "x": 281.6829776200852,
+                    "y": 739.1572358304115
+                },
+                {
+                    "x": 81.68297762008447,
+                    "y": 739.1572358304115
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "stroke",
+            "lineWidth": 2,
+            "shape": "L_left",
+            "params": {
+                "w": 200,
+                "h": 400
+            },
+            "allScale": {
+                "x": 0.81,
+                "y": 1.1542211055276377
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        },
+        {
+            "events": [],
+            "dragEvents": [
+                {
+                    "events": "drag",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mousedown",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                },
+                {
+                    "events": "mouseup",
+                    "isDrag": true,
+                    "isHover": false,
+                    "params": []
+                }
+            ],
+            "type": "node",
+            "rotateVal": 0,
+            "scaleVal": {
+                "x": 1,
+                "y": 1
+            },
+            "createNode": null,
+            "freeze": true,
+            "originPosition": {
+                "x": 492,
+                "y": 324
+            },
+            "color": [
+                "#2cafe7",
+                "#2cafe7",
+                "#2cafcc"
+            ],
+            "text": {
+                "content": "在线监测系统",
+                "color": "rgba(7, 224, 224, 1)",
+                "fontSize": 26,
+                "fontFamily": "Sans-serif",
+                "lineHeight": 20,
+                "fontWeight": "bolder",
+                "fontStyle": "normal",
+                "textAlign": "center",
+                "textVertical": "top",
+                "padding": [
+                    0,
+                    0
+                ],
+                "shadowOffsetX": 0,
+                "shadowOffsetY": 0,
+                "shadowColor": "orange",
+                "shadowBlur": 0
+            },
+            "shadowOffsetX": 0,
+            "shadowOffsetY": 0,
+            "shadowColor": "orange",
+            "shadowBlur": 0,
+            "border": {
+                "show": false,
+                "color": "#ccc",
+                "lineWidth": 1,
+                "lineCap": "square",
+                "lineJoin": "round",
+                "lineDash": [
+                    0,
+                    0
+                ]
+            },
+            "position": {
+                "x": 713.3698471349891,
+                "y": 448.4352971661868
+            },
+            "name": "node21",
+            "ID": "e233d61b-8c21-4556-84f4-d4300efd",
+            "zIndex": 0,
+            "helperBox": false,
+            "vertex": [
+                {
+                    "x": 73.36984713498707,
+                    "y": 128.43529716618605
+                },
+                {
+                    "x": 1353.369847134989,
+                    "y": 128.43529716618605
+                },
+                {
+                    "x": 1353.369847134989,
+                    "y": 768.4352971661883
+                },
+                {
+                    "x": 73.36984713498707,
+                    "y": 768.4352971661883
+                }
+            ],
+            "groupPosition": {
+                "x": 0,
+                "y": 0
+            },
+            "DValue": {
+                "x": 0,
+                "y": 0
+            },
+            "drawType": "fill",
+            "lineWidth": 1,
+            "shape": "L_box",
+            "params": {
+                "w": 1280,
+                "h": 640
+            },
+            "allScale": {
+                "x": 0.81,
+                "y": 0.81
+            },
+            "allRotate": 0,
+            "isMousedown": false
+        }
+    ]
+}
